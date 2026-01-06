@@ -7,3 +7,4 @@
 - Create NOP (No Optimizations) branch and make it up to date
 - v1.4 is gonna be a big release, with enough help and dedication it will be possible
 - Create 720p Variant? Still in consideration
+- Adjust blur intensity in case it bugs out in other ROMs
