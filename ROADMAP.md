@@ -3,3 +3,4 @@
 - Improve description
 - Add more stuff
 - ~Update readme.md~ (Done)
+- Improve compatibility with other systems
