@@ -10,10 +10,12 @@ TraxSU is a module for **Pixel-based ROMs** that optimizes your experience while
 - **Google Sans Flex** font for better reading and typing
 - **UI smoothness** for a great feeling when using your OS
 - More to come!
+
 ---
 
 ## 📝 Notes
 - Improved your experience on Pixel based roms with optimizations
 - **Better** fonts and emojis for your eyes.
+---
 
 Enjoy your **system**, enjoy your **life**.
