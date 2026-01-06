@@ -1,0 +1,5 @@
+- ~Create Github repo for module~ (Done)
+- Make a customizable installer like HellifyUI 4.0 (inoCity)
+- Improve description
+- Add more stuff
+- ~Update readme.md~ (Done)
