@@ -40,7 +40,7 @@
 
 # • 1.5 (07/01/2026)
 
-- Removed all the placebos and added real optimizations (thanks @jpzex for helping)
+- Removed all the placebos and added real optimizations (thanks [@jpzex] (https://github.com/jpzex) for helping)
 - Fixed bugs with the customizable installer
 ---
 - Next version will take longer longer because some new additions to the module need fixes and i got no further info abot that yet.
