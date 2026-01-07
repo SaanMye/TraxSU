@@ -1,6 +1,6 @@
 {
   "version": "1.5",
   "versionCode": 150,
-  "zipUrl": "https://github.com/SaanMye/TraxSU/releases/download/v1.5/TraxSU.zip",
-  "changelog": "https://github.com/SaanMye/TraxSU/releases/tag/v1.5"
+  "url": "https://github.com/SaanMye/TraxSU/releases/download/v1.5/TraxSU.zip",
+  "changelog": "v1.5"
 }
