@@ -1,10 +1,10 @@
 - ~Create Github repo for module~ (Done)
-- Make a customizable installer like HellifyUI 4.0 (inoCity)
+- ~Make a customizable installer like HellifyUI 4.0 (inoCity)~ (Done)
 - Improve description
 - Add more stuff
 - ~Update readme.md~ (Done)
 - Improve compatibility with other systems
 - Create NOP (No Optimizations) branch and make it up to date
-- v1.4 is gonna be a big release, with enough help and dedication it will be possible
+- ~v1.4 is gonna be a big release, with enough help and dedication it will be possible~ (Done)
 - Create 720p Variant? Still in consideration
-- Adjust blur intensity in case it bugs out in other ROMs
+- ~Adjust blur intensity in case it bugs out in other ROMs~ (Done)
