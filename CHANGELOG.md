@@ -27,7 +27,7 @@
 
 - Removed unused permissions
 
-# • 1.3.3
+# • 1.3.3 PRE-RELEASE (06/01/2026)
 
 - Reduced blur intensity to avoid bugs in some ROMs
 
