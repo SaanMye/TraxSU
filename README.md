@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner/TraxSUBanner.png" alt="TraxSU Banner" width="700">
+  <img src="Banner/TraxSUBanner.jpg" alt="TraxSU Banner" width="700">
 </p>
 
 > **Improve your UI smoothness on Pixel based ROMs**
