@@ -2,4 +2,4 @@
 
 [@InoCity](https://github.com/inocity) for HellifyUI, the main inspiration for my module.
 
-[@ZedissP](https://t.me/zedissp) for the banner.
+[@ZedissP](https://github.com/ZedissPp) for the banner.
