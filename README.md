@@ -4,7 +4,7 @@
 
 > **Improve your UI smoothness on Pixel based ROMs**
 
-TraxSU is a module for **Pixel-based ROMs** that optimizes your phone while adding visual changes to improve your daily drive performance in your ROM
+TraxSU is a Magisk module for **Pixel-based ROMs** that optimizes your phone while adding visual changes to improve your daily drive performance in your ROM
 
 ---
 
