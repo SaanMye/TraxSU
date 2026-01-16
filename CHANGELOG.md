@@ -46,7 +46,7 @@
 ---
 - Next major version will take longer longer because some new additions to the module need fixes, and i got no further info about that yet.
 
-# • 1.5.1 (15/01/2026)
+# • 1.5.1 (16/01/2026)
 
 - Modified optimizations
 - Added banner for github page
