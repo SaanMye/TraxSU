@@ -40,7 +40,7 @@
 
 # • 1.5 (07/01/2026)
 
-- Added better optimization techniques, thanks jpzex (https://github.com/jpzex) for helping
+- Added better optimization techniques, thanks [jpzex](https://github.com/jpzex) for helping
 - Fixed bugs with the customizable installer
 - Updated update.json on Github to properly show changelog in the manager
 ---
