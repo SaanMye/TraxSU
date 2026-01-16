@@ -49,7 +49,6 @@
 # • 1.5.1 (15/01/2026)
 
 - Modified optimizations
-- NOP (No Optimizations) alternative will be available in all further versions from now on
 - Added banner for github page
 - Created CREDITS.md on repository, thanking everybody that helped and inspirated me to create the module
 - Removed unused files
