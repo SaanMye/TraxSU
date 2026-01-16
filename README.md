@@ -1,5 +1,3 @@
-# TraxSU
-
 <p align="center">
   <img src="Banner/TraxSUBanner.png" alt="TraxSU Banner" width="700">
 </p>
