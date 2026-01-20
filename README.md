@@ -17,9 +17,9 @@ TraxSU is a Magisk module for **Pixel-based ROMs** that optimizes your phone whi
 
 ---
 
-## 🗒️ Notes
-- Added **optimizations** to improve stability during use.
-- Added better **fonts and emojis.**
+## 🗒️ Important Note
+- The project won't be longer maintained after the release of version 2.0! Thank everybody for support and contributions to the project, enjoy the latest release!
+
 ---
 
-Enjoy your system, enjoy your **life**.
+Treat your **system** well, enjoy your **life**.
