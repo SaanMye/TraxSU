@@ -2,7 +2,7 @@
   <img src="Banner/TraxSUBanner.jpg" alt="TraxSU Banner" width="700">
 </p>
 
-> **Improve your UI smoothness on Pixel based ROMs**
+> **Improve your UI responsiveness and performance on Pixel based ROMs**
 
 TraxSU is a Magisk module for **Pixel-based ROMs** that optimizes your phone while adding visual changes to improve your daily drive performance during usage.
 
@@ -15,9 +15,9 @@ TraxSU is a Magisk module for **Pixel-based ROMs** that optimizes your phone whi
 
 ## 🔑 Features
 - **Google Sans Flex** font, for better reading and typing experience.
-- **System Optimization**, for a great feeling when using your device.
+- **Optimization Scripts**, for a smooth performance when using your device.
 - **iOS Emojis**, for a nice visual.
-- **Network Improvement**, for faster speeds and websites opening.
+- **Network Improvement**, for faster downloads, uploads and websites opening.
 - **Background Blur**, to see behind tabs and make your ROM delightful.
 
 ---
