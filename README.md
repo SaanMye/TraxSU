@@ -14,24 +14,19 @@ TraxSU is a Magisk module for **Android 16 Pixel-based ROMs** that optimizes you
 ---
 
 ## 🔑 Features
-- **Google Sans Flex**
-
+- **Google Sans Flex**,
 for better reading and typing experience.
 
-- **Optimization Scripts**
-
+- **Optimization Scripts**,
 for a smooth performance when using your device.
 
-- **iOS Emojis**
-
+- **iOS Emojis**,
 for a nice visual.
 
-- **Network Improvement**
-
+- **Network Improvement**,
 for faster downloads, uploads and websites opening.
 
-- **Background Blur**
-
+- **Background Blur**,
 to see behind tabs and make your ROM delightful.
 
 ---
@@ -39,12 +34,12 @@ to see behind tabs and make your ROM delightful.
 ## 💻 Compatibility
 
 - **ROOT Managers:**
-
 Magisk/Apatch/KernelSU: ✅
 
 - **Android Version:**
-
 Android 16 QPR1 & QPR2: ✅
 Android 16 QPR0: ⚠️ (NOT TESTED)
+
+---
 
 Treat your **system** well, enjoy your **life**.
