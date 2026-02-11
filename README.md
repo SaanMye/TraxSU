@@ -39,8 +39,6 @@ Magisk/Apatch/KernelSU: ✅
 - **Android Version:**
 Android 16 QPR1 & QPR2: ✅
 
-Android 16 QPR0: ⚠️ (NOT TESTED)
-
 ---
 
 Treat your **system** well, enjoy your **life**.
