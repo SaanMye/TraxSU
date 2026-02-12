@@ -12,3 +12,4 @@ for testing the module and giving feedback.
 ---
 # [@saavedra3](https://github.com/saavedra3) 
 for helping on boot animation implementation.
+---
