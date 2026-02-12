@@ -5,7 +5,7 @@ for help during the module development and on optimizations.
 for HellifyUI, the main inspiration for my module.
 ---
 # [@ZedissP](https://github.com/ZedissPp)
-for the banner.
+for making the banner.
 ---
 # [@ogabrielcavalieri](https://github.com/ogabrielcavalieri) 
 for testing the module and giving feedback.
