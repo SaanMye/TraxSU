@@ -57,7 +57,7 @@
 - Added a functional **WebUI** with toggles
 - Added blur option on installation
 - Added props to help on network
-- Updated optimization script to v1.1.8 (by @jpzex)
+- Updated optimization script to v1.1.8 (by [@Jpzex](https://github.com/jpzex))
 - Fixed language detection on install
 - Fixed Android detection on install
 - Fixed most of the problems with the installer
