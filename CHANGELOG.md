@@ -31,7 +31,7 @@
 
 - Reduced blur intensity to avoid bugs in some ROMs
 
-# • 1.4 Major Release (07/01/2026)
+# • 1.4 Major (07/01/2026)
 
 - Implemented customizable installer
 - Removed useless codes
