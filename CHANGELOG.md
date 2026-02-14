@@ -51,7 +51,7 @@
 - Created CREDITS.md on repository, thanking everybody that helped and inspirated me to create the module
 - Removed unused files
 
-# • 2.0 (14/02/2026)
+# • 2.0 Major (14/02/2026)
 
 - Removed rickroll action button
 - Added a functional **WebUI** with toggles
