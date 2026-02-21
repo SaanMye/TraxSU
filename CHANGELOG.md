@@ -63,7 +63,7 @@
 - Fixed language detection on install
 - Fixed Android detection on install
 - Fixed most of the problems with the installer
-- Initial implementation of **Trax boot animation** [(separated version)](https://github.com/SaanMye/TraxSU/releases/download/v2.0/TraxSU_TraxBoot.zip)
+- Initial implementation of **Trax boot animation** ([separated version](https://github.com/SaanMye/TraxSU/releases/download/v2.0/TraxSU_TraxBoot.zip))
 - Added boot animation resolution picker
 - Reworked installation visual
 - Reworked most of the code from installation
