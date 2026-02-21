@@ -59,11 +59,11 @@
 - Added a functional **WebUI** with toggles
 - Added blur option on installation
 - Added props to help on network
-- Updated optimization script to v1.1.8 (by [@Jpzex](https://github.com/jpzex))
+- Updated optimization script to v1.1.8 (by [@jpzex](https://github.com/jpzex))
 - Fixed language detection on install
 - Fixed Android detection on install
 - Fixed most of the problems with the installer
-- Initial implementation of **Trax boot animation** (separate version)
+- Initial implementation of **Trax boot animation** [(separated version)](https://github.com/SaanMye/TraxSU/releases/download/v2.0/TraxSU_TraxBoot.zip)
 - Added boot animation resolution picker
 - Reworked installation visual
 - Reworked most of the code from installation
