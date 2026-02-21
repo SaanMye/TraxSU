@@ -35,3 +35,13 @@
 - Reworked installation visual
 - Reworked most of the code from installation
 - Overlay option won't appear if NO is chosen in Blur option
+
+# • 2.0.1 Hotfix (21/02/2026)
+
+- Fixed permission issues
+- Fixed duplicated folders
+- Added Blur Overlay as an option on **WebUI**
+- Added Blur as an option on **WebUI**
+- Updated iOS emojis to 18.4 (from [Apple Emoji ttf](https://github.com/samuelngs/apple-emoji-ttf))
+- Updated the ASCII text art on installation
+- Added update path to TraxBoot version
