@@ -36,7 +36,9 @@
 - Implemented customizable installer
 - Removed useless codes
 - Correctly added blur intensity reducer
-- Linked Github repo to module (still in testing)
+- Linked Github repo to module to all versions (20/02/2026)
+- Removed duplicated folders to reduce module size
+- Changed ID from trax_su to traxsu for all versions (20/02/2026)
 
 # • 1.5 (07/01/2026)
 
