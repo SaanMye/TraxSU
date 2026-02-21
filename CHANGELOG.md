@@ -18,7 +18,7 @@
 
 - Removed some useless optimizations
 
-# • 1.3.1 Patch (05/01/2026)
+# • 1.3.1 Hotfix (05/01/2026)
 
 - Changed to Google Pixel boot animation
 - Added action button
