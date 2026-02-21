@@ -1,7 +1,7 @@
 
 {
-  "version": "2.0",
-  "versionCode": 200,
-  "zipUrl": "https://github.com/SaanMye/TraxSU/releases/download/v2.0/TraxSU_TraxBoot.zip",
+  "version": "2.0.1",
+  "versionCode": 201,
+  "zipUrl": "https://github.com/SaanMye/TraxSU/releases/download/v2.0.1/TraxSU_TraxBoot.zip",
   "changelog": "https://raw.githubusercontent.com/SaanMye/TraxSU/central/CHANGELOG.md"
 }
