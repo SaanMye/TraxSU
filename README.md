@@ -8,9 +8,8 @@ TraxSU is a Magisk module for **Android 16 Pixel-based ROMs** that optimizes you
 
 ---
 
-## ⚠️ Important Note
-<span style="background-color: yellow;">Project currently on hiatus.</span>.
-
+## ⚠️ Maintenance Notice
+[!WARNING] Project current on a hiatus with no expected return date.
 ---
 
 ## 🔑 Features
