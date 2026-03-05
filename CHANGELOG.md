@@ -45,3 +45,10 @@
 - Updated iOS emojis to 18.4 (from [Apple Emoji ttf](https://github.com/samuelngs/apple-emoji-ttf))
 - Updated the ASCII text art on installation
 - Added update path to TraxBoot version
+
+# • 2.1 Final & Kinda unfinished (05/03/2026)
+
+- Changed font to **Fucek**
+- Updated iOS emojis to 26.2 (by [Apple Emoji TTF](https://github.com/samuelngs/apple-emoji-ttf/releases/tag/v26.2.1))
+- Updated [optimization script](https://github.com/jpzex/base_opt) to 1.2 (By @jpzex)
+- Changed optimization script to only run when boot is completed for better efficiency
