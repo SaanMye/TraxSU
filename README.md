@@ -14,14 +14,11 @@ TraxSU is a Magisk module for **Android 16 Pixel-based ROMs** that optimizes you
 ---
 
 ## 🔑 Features
-- **Google Sans Flex**,
-for better reading and typing experience.
+- **Fucek font**, an aesthetic and visually beautiful font.
 
-- **Optimization Scripts**,
-for a smooth performance when using your device.
+- **Optimization Scripts**, to deliver a smooth performance when using your device.
 
-- **iOS Emojis**,
-for a nice visual.
+- **iOS Emojis**, because they honestly look way better than default Android emojis.
 
 - **Network Improvement**,
 for faster downloads, uploads and websites opening.
