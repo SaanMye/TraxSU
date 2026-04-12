@@ -5,6 +5,7 @@
 > **Improve your UI responsiveness and performance on Pixel based ROMs**
 
 TraxSU is a Magisk module for **Android 16 Pixel-based ROMs** that optimizes your phone while adding visual changes to improve your daily drive performance during usage.
+
 ---
 
 ## ⚠️ Archive Notice
